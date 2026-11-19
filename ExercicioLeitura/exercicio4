@@ -1,0 +1,3 @@
+const rls = require("readline-sync")
+let base = 0
+let altura = 0
